@@ -1,5 +1,4 @@
-import React, { Fragment } from 'react';
-import { Route , Switch, withRouter,} from "react-router-dom"
+import React from 'react';
 import './App.css';
 import Home from "./new/Components/Home"
 import Projects from "./new/Components/Projects";

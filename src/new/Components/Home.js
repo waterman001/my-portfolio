@@ -113,7 +113,7 @@ const Home = () => {
         <h5>
           I'm Afekiku Joseph Olamide a FullStack Developer focused on building responsive
           and accessible interfaces & experiences on the web.
-          A software developer with passion for writing clean codes 🚀 
+          A software developer with passion for writing clean codes <span>🚀</span>
           And have experience of building Web Applications with 
           JavaScript / Reactjs / Nodejs / with Database Engines such as Postgres, Mysql and Mongodb.
         </h5>
@@ -150,7 +150,7 @@ const Home = () => {
           experience with:
         </h6>
         <div className="stuff">
-          <img src={languages} style={{"paddingLeft":"15px"}}/>
+          <img src={languages} style={{"paddingLeft":"15px"}} alt={"tt"}/>
          <span className="imaged"> <img src={frameworks} alt="frameworks" /></span>
          <span className="imaged"><img src={database} alt="database" /></span>
          <span className="imaged"> <img src={tools} alt="tools" /></span>
