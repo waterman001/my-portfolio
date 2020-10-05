@@ -119,21 +119,21 @@ const Home = () => {
         </h5>
         <div className="touch">
           <a
-            href="https://twitter.com/Killua713"
+            href="https://twitter.com/afeks_lamide"
             target="_blank"
             rel="noopener noreferrer"
             title="twitter">
             <img src={twitter} alt="twitter"/>
           </a>
           <a
-            href="https://www.linkedin.com/in/moshood-alimi-413869199/"
+            href="https://www.linkedin.com/in/joseph-olamide-afekiku-b8040519a/"
             target="_blank"
             rel="noopener noreferrer"
             title="linkedin">
             <img src={link} alt="linkdln" />
           </a>
           <a
-            href="https://github.com/cyberkillua"
+            href="https://github.com/waterman001"
             target="_blank"
             rel="noopener noreferrer"
             title="github">
